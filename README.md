@@ -5,6 +5,10 @@
 
 
 - 🌱 I’m currently learning Nextjs
+
+
+
+<img src="https://bytes.dev/images/content/ts-cat.jpg"/>
   
   
 
