@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://bytes.dev/images/content/ts-cat.jpg" align="center" style="width: 100%" />
+<img src="https://bytes.dev/images/content/ts-cat.jpg" align="center" style="width: 50%" />
 </div>  
   
 
