@@ -70,7 +70,7 @@ I specialize in building frontend for your app or website. I love designing syst
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Axyl1410&hide_border=true&layout=compact" align="left" />
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Axyl1410&hide_border=true&layout=compact" align="center" /></div>
 
 </td></tr></table>  
 
@@ -80,5 +80,8 @@ I specialize in building frontend for your app or website. I love designing syst
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=axyl1410&&style=flat-square)  
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=axyl1410&&style=flat-square" align="center" />
+</div>  
   
+
