@@ -1,3 +1,13 @@
+<style>
+  @media (max-width: 600px) {
+    .rapidfire-container {
+      display: flex;
+      flex-direction: column;
+    }
+  }
+</style>
+
+
 ## Hey 👋, I'm Alexsandr Senaviev!  
   
 
@@ -20,7 +30,8 @@ I specialize in building frontend for your app or website. I love designing syst
 <br/>  
 
 
-## Rapidfire  
+## Rapidfire
+<div class="rapidfire-container">
 <table><tr><td valign="top" width="50%">
 
 - 🌱 I’m currently learning Next ts  
@@ -37,7 +48,7 @@ I specialize in building frontend for your app or website. I love designing syst
 <div align="center">
 <img src="https://bytes.dev/images/content/ts-cat.jpg" align="center" style="width: 100%" />
 </div>  
-
+</div>
 
 </td></tr></table>  
 
@@ -84,4 +95,3 @@ I specialize in building frontend for your app or website. I love designing syst
 <img src="https://komarev.com/ghpvc/?username=axyl1410&&style=flat-square" align="center" />
 </div>  
   
-
