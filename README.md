@@ -42,6 +42,10 @@ I specialize in building frontend for your app or website. I love designing syst
 
 <br/>  
 
+![snake gif](https://github.com/axyl1410/axyl1410/blob/output/github-snake.svg)
+
+<br/>
+
 
 ## Languages and Tools  
 <div align="center">  
