@@ -39,8 +39,8 @@ I specialize in building frontend for your app or website. I love designing syst
 </div>  
 
 </td></tr></table>  
- 
 
+### Watch my contribution graph get eaten by the snake :snake:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/axyl1410/axyl1410/blob/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/axyl1410/axyl1410/blob/output/github-snake.svg" />
