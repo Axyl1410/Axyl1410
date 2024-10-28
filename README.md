@@ -42,7 +42,11 @@ I specialize in building frontend for your app or website. I love designing syst
 
 <br/>  
 
-![snake gif](https://github.com/axyl1410/axyl1410/blob/output/github-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/axyl1410/axyl1410/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/axyl1410/axyl1410/blob/output/github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 <br/>
 
