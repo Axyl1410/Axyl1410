@@ -1,4 +1,4 @@
-## Hey 👋, I'm Alexsandr Senaviev!  
+## Hey 👋, I'm Alexsandr Senaviev!  <img src="cat.webp" width="50"/>
   
 
 <a href="https://www.facebook.com/AlexsandrSevaviev" target="_blank">
@@ -40,16 +40,6 @@ I specialize in building frontend for your app or website. I love designing syst
 
 </td></tr></table>  
 
-### Watch my contribution graph get eaten by the snake :snake:
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/axyl1410/axyl1410/blob/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/axyl1410/axyl1410/blob/output/github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-
-<br/>
-
-
 ## Languages and Tools  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
@@ -69,7 +59,7 @@ I specialize in building frontend for your app or website. I love designing syst
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+<div align="center"><table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Axyl1410&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
@@ -77,13 +67,7 @@ I specialize in building frontend for your app or website. I love designing syst
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Axyl1410&hide_border=true&layout=compact" align="center" /></div>
 
-</td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
+</td></tr></table></div>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=axyl1410&&style=flat-square" align="center" />
