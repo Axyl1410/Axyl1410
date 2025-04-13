@@ -12,33 +12,21 @@
 
 
 ### Glad to see you here!  
-I’m a full-stack developer who has turned years of freelancing into a full-time career. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.
+I am a passionate developer and content creator, focusing on game development and web technologies. I love building interactive experiences and sharing knowledge with the community.
 
-I specialize in building frontend for your app or website. I love designing systems that are light yet powerful.  
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=axyl1410&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axyl1410&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+</p>
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img alt="axyl1410's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=axyl1410&bg_color=000000&color=94b4a4&line=FFFFFF&point=FFFFFF&hide_border=true" />
+</a>
   
 
 <br/>  
 
 
-## Rapidfire
-<table><tr><td valign="top" width="50%">
-
-- 🌱 I’m currently learning Flutter  
-  
-
-- ❓ Ask me about anything related to React  
-  
-
-- ⚡ Fun fact: I keep night shift swithed on at all times   
-
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://bytes.dev/images/content/ts-cat.jpg" align="center" style="width: 100%" />
-</div>  
-
-</td></tr></table>  
 
 ## Languages and Tools  
 <div align="center">  
@@ -58,19 +46,16 @@ I specialize in building frontend for your app or website. I love designing syst
 </div>  
 
 
-<br/>  
 
 
-## Github Stats  
-<div align="center"><table><tr><td valign="top" width="50%">
+  ## 🌐 Web Development
 
-<img src="https://github-readme-stats.vercel.app/api?username=Axyl1410&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+Experienced in:
+- Nextjs 15
+- Frontend Development
+- Responsive Web Design
+- Interactive Web Applications
+- Server Management
 
-</td><td valign="top" width="50%">
+Thanks for stopping by! Feel free to check out my projects and connect with me. Let's create something amazing together! 🚀
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Axyl1410&hide_border=true&layout=compact" align="center" /></div>
-
-</td></tr></table></div>  
-
-
-  
