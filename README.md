@@ -5,6 +5,9 @@
 </a>
 <a href="https://github.com/Axyl1410" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/axyl1410/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 
 ### Glad to see you here!  
@@ -15,7 +18,7 @@ I am a passionate developer, focusing on web development and blockchain technolo
   ## 🌐 Web Development
 
 Experienced in:
-- Nextjs 15
+- Nextjs 16
 - Frontend Development
 - Responsive Web Design
 - Interactive Web Applications
